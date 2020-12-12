@@ -1,0 +1,9 @@
+HTML stands for Hypertext Markup Language. HTML is not a programming language.It's a markup language that tells the web browsers about the structure of web pages a user visits.
+It consists of elements. which are made of tags. 
+
+Elements are of two types - block level and Inline Elements.
+
+Attributes - It contains extra information about a tag.
+
+<p class="editor-not">My cat is mad</p>
+//here class="editor-not" is attribute
